@@ -2,8 +2,8 @@
   "version": "0.3.0",
   "min_version": "0.3.0",
   "dmg_url": "https://github.com/Mikalakis/metascorec-releases/releases/download/v0.3.0/metaSCOREc-0.3.0-arm64.dmg",
-  "exe_url": "https://github.com/Mikalakis/metascorec-releases/releases/download/v0.3.0/metaSCOREc-0.3.0-x64.exe",
+  "exe_url": null,
   "sha256_dmg": "3a2c8b81e60f894d9082fc56ca79d6d2e2587c39d39862ce54e8da85d012d1a3",
-  "sha256_exe": "5d3bd22e76e9964afa363ef03ac9d52517d700114566bb5cdfbd1db9b527df96",
-  "notes": "metaSCOREc 0.3.0 — wersja produkcyjna.\n\nRozliczenie kosztów produkcji reklamowej: jeden folder wejściowy, podział wielodokumentowych PDF-ów, dwa etapy weryfikacji, deterministyczne sumy, kosztorys Excel z audytem i historią wersji.\n\n- konta metaUNIT z ręczną akceptacją każdego użytkownika przez administratora\n- statystyki użycia w panelu administratora (bez nazw projektów, dokumentów i kwot)\n- obowiązkowe aktualizacje ze sprawdzaniem sumy SHA-256\n- macOS: podpisany i notaryzowany DMG (Apple Silicon). Windows: instalator x64 (niepodpisany — SmartScreen pokaże ostrzeżenie)\n\nInstrukcja obsługi: metaSCOREc_instrukcja.pdf"
+  "sha256_exe": null,
+  "notes": "metaSCOREc 0.3.0 — wersja produkcyjna. macOS, Apple Silicon. Podpisany i notaryzowany DMG; konta metaUNIT z ręczną akceptacją użytkowników; statystyki użycia; obowiązkowe aktualizacje ze sprawdzaniem SHA-256."
 }
