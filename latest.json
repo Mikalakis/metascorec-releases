@@ -1,9 +1,9 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "min_version": "0.3.0",
-  "dmg_url": "https://github.com/Mikalakis/metascorec-releases/releases/download/v0.3.0/metaSCOREc-0.3.0-arm64.dmg",
+  "dmg_url": "https://github.com/Mikalakis/metascorec-releases/releases/download/v0.3.1/metaSCOREc-0.3.1-arm64.dmg",
   "exe_url": null,
-  "sha256_dmg": "3a2c8b81e60f894d9082fc56ca79d6d2e2587c39d39862ce54e8da85d012d1a3",
+  "sha256_dmg": "238d8703f9dd15fb5fa6e1cc500f279e308437c1c730b3c34cb0906c2f16f841",
   "sha256_exe": null,
-  "notes": "metaSCOREc 0.3.0 — wersja produkcyjna. macOS, Apple Silicon. Podpisany i notaryzowany DMG; konta metaUNIT z ręczną akceptacją użytkowników; statystyki użycia; obowiązkowe aktualizacje ze sprawdzaniem SHA-256."
+  "notes": "metaSCOREc 0.3.1 — macOS, Apple Silicon.\n\nCo nowego:\n• Instrukcja obsługi stoi na neutralnych danych demonstracyjnych — żadnych nazw z prawdziwych faktur ani projektów.\n• Formularz nowego projektu bez wpisanego na sztywno nabywcy; przykłady w podpowiedziach są uniwersalne.\n• Eksport przenośnego pakietu nazywa się teraz „pakiet przenośny” (folder Pakiet_przenosny__...).\n• Lista dokumentów w segregacji i weryfikacji pokazuje pełne nazwy dostawców zamiast ucinanych.\n\nInstalacja: otwórz .dmg i przeciągnij metaSCOREc do folderu Programy. Aplikacja jest podpisana i notaryzowana przez Apple."
 }
